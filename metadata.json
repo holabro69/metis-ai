@@ -1,0 +1,6 @@
+{
+  "name": "METIS AI",
+  "description": "An ultra-clean, modern AI study assistant providing real-time personalized tutoring, study plans, and interactive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
